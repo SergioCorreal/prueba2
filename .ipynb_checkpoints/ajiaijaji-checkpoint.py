@@ -5,7 +5,7 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
-print("Saminamina ee wakaka e e ")
+print("Bebe yo te bote")
 
 x = [1,2,3]
 y = [3,2,1]
