@@ -1,5 +1,6 @@
 # Ejercicio5
 # imprima el mensaje: "hola mundo!" 
+from scipy.fftpack import fft, fftfreq
 import numpy as np
 import matplotlib
 matplotlib.use('Agg')
