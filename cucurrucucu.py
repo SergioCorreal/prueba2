@@ -3,7 +3,7 @@
 import numpy as np
 import matplotlib
 matplotlib.use('Agg')
-import mapltotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
 print("Saminamina ee wakaka e e ")
 
